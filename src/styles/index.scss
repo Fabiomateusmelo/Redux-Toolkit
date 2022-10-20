@@ -1,0 +1,25 @@
+body {
+  background: #00a9a9;
+}
+
+.container {
+  width: 89%;
+}
+
+.cursor-default {
+  cursor: unset;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+::-webkit-scrollbar-track {
+  background-color: #00a9a9;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #0055a9;
+  border-radius: 1px;
+}
+.btn {
+  transition: all 0.2s ease;
+}
